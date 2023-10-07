@@ -10,7 +10,7 @@ It defines a generator function my_gen that yields numbers up to a specified lim
 
 ## Example Output
 
-'My_range is returning: 0
+`My_range is returning: 0
 0
 My_range is returning: 1
 1
@@ -28,7 +28,7 @@ My_range is returning: 6
 My_range is returning: 7
 My_range is returning: 8
 My_range is returning: 9
-This normal list takes 200 bytes'
+This normal list takes 200 bytes`
 
 ## Acknowledgments
 This program was created as part of the Python for Everyone course offered by the National Emerging Skills Program (NESP).
